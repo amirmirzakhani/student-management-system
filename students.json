@@ -1,0 +1,301 @@
+[
+  {
+    "id": "40313161001",
+    "name": "Sara Ahmadi",
+    "major": "Computer Engineering",
+    "semester": 4,
+    "email": "sara.ahmadi@gmail.com",
+    "grades": [
+      18.5,
+      19.0,
+      17.25,
+      20.0,
+      18.0,
+      19.5
+    ]
+  },
+  {
+    "id": "40313161002",
+    "name": "Ali Rezaei",
+    "major": "Industrial Engineering",
+    "semester": 2,
+    "email": "ali.rezaei@gmail.com",
+    "grades": [
+      14.0,
+      15.5,
+      12.0,
+      16.0,
+      13.5,
+      15.0
+    ]
+  },
+  {
+    "id": "40313161003",
+    "name": "Reza Moradi",
+    "major": "Electrical Engineering",
+    "semester": 6,
+    "email": "reza.moradi@gmail.com",
+    "grades": [
+      19.25,
+      20.0,
+      18.75,
+      19.5,
+      20.0,
+      19.0
+    ]
+  },
+  {
+    "id": "40313161004",
+    "name": "Maryam Hosseini",
+    "major": "Mechanical Engineering",
+    "semester": 3,
+    "email": "maryam.hosseini@gmail.com",
+    "grades": [
+      16.0,
+      17.5,
+      15.0,
+      16.5,
+      17.0,
+      16.0
+    ]
+  },
+  {
+    "id": "40313161005",
+    "name": "Amir Kazemi",
+    "major": "Civil Engineering",
+    "semester": 5,
+    "email": "amir.kazemi@gmail.com",
+    "grades": [
+      12.5,
+      13.0,
+      14.25,
+      11.5,
+      13.0,
+      12.0
+    ]
+  },
+  {
+    "id": "40313161006",
+    "name": "Neda Karimi",
+    "major": "Chemical Engineering",
+    "semester": 4,
+    "email": "neda.karimi@gmail.com",
+    "grades": [
+      17.0,
+      18.25,
+      19.0,
+      18.0,
+      17.5,
+      18.5
+    ]
+  },
+  {
+    "id": "40313161007",
+    "name": "Pouya Soltani",
+    "major": "Industrial Engineering",
+    "semester": 8,
+    "email": "pouya.soltani@gmail.com",
+    "grades": [
+      15.5,
+      16.0,
+      14.5,
+      17.0,
+      16.5,
+      15.0
+    ]
+  },
+  {
+    "id": "40313161008",
+    "name": "Zahra Mohammadi",
+    "major": "Computer Engineering",
+    "semester": 1,
+    "email": "zahra.mohammadi@gmail.com",
+    "grades": [
+      18.0,
+      17.5,
+      19.0,
+      18.5,
+      19.5,
+      18.0
+    ]
+  },
+  {
+    "id": "40313161009",
+    "name": "Hossein Ebrahimi",
+    "major": "Mechanical Engineering",
+    "semester": 7,
+    "email": "hossein.ebrahimi@gmail.com",
+    "grades": [
+      13.0,
+      12.5,
+      14.0,
+      13.5,
+      12.0,
+      14.5
+    ]
+  },
+  {
+    "id": "40313161010",
+    "name": "Fatemeh Ghasemi",
+    "major": "Civil Engineering",
+    "semester": 4,
+    "email": "fatemeh.ghasemi@gmail.com",
+    "grades": [
+      16.5,
+      17.0,
+      16.0,
+      15.75,
+      16.5,
+      17.0
+    ]
+  },
+  {
+    "id": "40313161011",
+    "name": "Mehdi Safari",
+    "major": "Chemical Engineering",
+    "semester": 2,
+    "email": "mehdi.safari@gmail.com",
+    "grades": [
+      11.0,
+      13.5,
+      12.0,
+      14.0,
+      12.5,
+      13.0
+    ]
+  },
+  {
+    "id": "40313161012",
+    "name": "Elham Nazari",
+    "major": "Electrical Engineering",
+    "semester": 6,
+    "email": "elham.nazari@gmail.com",
+    "grades": [
+      19.0,
+      18.5,
+      19.5,
+      20.0,
+      19.0,
+      18.5
+    ]
+  },
+  {
+    "id": "40313161013",
+    "name": "Danial Taheri",
+    "major": "Industrial Engineering",
+    "semester": 3,
+    "email": "danial.taheri@gmail.com",
+    "grades": [
+      15.0,
+      14.5,
+      16.0,
+      15.5,
+      16.5,
+      15.0
+    ]
+  },
+  {
+    "id": "40313161014",
+    "name": "Kiana Vafaei",
+    "major": "Computer Engineering",
+    "semester": 5,
+    "email": "kiana.vafaei@gmail.com",
+    "grades": [
+      17.75,
+      18.5,
+      16.5,
+      19.0,
+      18.0,
+      19.25
+    ]
+  },
+  {
+    "id": "40313161015",
+    "name": "Saeed Rostami",
+    "major": "Mechanical Engineering",
+    "semester": 4,
+    "email": "saeed.rostami@gmail.com",
+    "grades": [
+      13.5,
+      14.0,
+      12.5,
+      15.0,
+      14.0,
+      13.0
+    ]
+  },
+  {
+    "id": "40313161016",
+    "name": "Yasmin Fallah",
+    "major": "Civil Engineering",
+    "semester": 2,
+    "email": "yasmin.fallah@gmail.com",
+    "grades": [
+      16.0,
+      16.5,
+      17.0,
+      16.25,
+      17.5,
+      16.0
+    ]
+  },
+  {
+    "id": "40313161017",
+    "name": "Farhad Mirzai",
+    "major": "Electrical Engineering",
+    "semester": 7,
+    "email": "farhad.mirzai@gmail.com",
+    "grades": [
+      14.5,
+      15.0,
+      13.5,
+      14.0,
+      15.5,
+      14.0
+    ]
+  },
+  {
+    "id": "40313161018",
+    "name": "Roya Alipour",
+    "major": "Chemical Engineering",
+    "semester": 5,
+    "email": "roya.alipour@gmail.com",
+    "grades": [
+      18.0,
+      19.0,
+      19.5,
+      18.5,
+      19.0,
+      18.75
+    ]
+  },
+  {
+    "id": "40313161020",
+    "name": "Mona Shakeri",
+    "major": "Computer Engineering",
+    "semester": 1,
+    "email": "mona.shakeri@gmail.com",
+    "grades": [
+      17.5,
+      18.0,
+      16.5,
+      17.0,
+      18.5,
+      17.0
+    ]
+  },
+  {
+    "id": "403131610877",
+    "name": "amirhoseinmirzakhani",
+    "major": "Computer Engineering",
+    "semester": 5,
+    "email": "amirmirzakhani508@gmail.com",
+    "grades": [
+      12.0,
+      14.0,
+      16.0,
+      18.0,
+      20.0
+    ]
+  }
+]

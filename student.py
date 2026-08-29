@@ -1,11 +1,11 @@
 class Student:
     def __init__(self, id, name, major, semester, email, grades=None):
-        self.id = str(id)
-        self.name = name
-        self.major = major
+        self.id = str(id).strip()
+        self.name = str(name).strip()
+        self.major = str(major).strip()
         self.semester = int(semester)
-        self.email = email
-        self.grades = grades if grades is not None else []
+        self.email = str(email).strip()
+        self.grades = [float(g) for g in grades] if grades else []
 
     def calculate_average(self):
         if not self.grades:
@@ -19,24 +19,18 @@ class Student:
             "major": self.major,
             "semester": self.semester,
             "email": self.email,
-            "grades": ";".join(map(str, self.grades))
+            "grades": self.grades
         }
 
     @classmethod
     def from_dict(cls, data):
-        grades_str = str(data.get("grades", ""))
-        grades = (
-            [float(g) for g in grades_str.split(";") if g.strip()]
-            if grades_str and grades_str != "nan"
-            else []
-        )
         return cls(
-            id=str(data["id"]),
-            name=data["name"],
-            major=data["major"],
-            semester=int(data["semester"]),
-            email=data["email"],
-            grades=grades
+            id=data.get("id", ""),
+            name=data.get("name", ""),
+            major=data.get("major", ""),
+            semester=data.get("semester", 1),
+            email=data.get("email", ""),
+            grades=data.get("grades", [])
         )
 
     def __str__(self):
